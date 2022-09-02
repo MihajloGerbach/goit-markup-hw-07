@@ -1,0 +1,16 @@
+.footer {
+    padding: 60px 0;
+    background-color: var(--border-bg-color);
+}
+
+.footer .container {
+    display: flex;
+    align-items: baseline;
+    justify-content: space-between;
+}
+
+.footer-title {
+    text-transform: uppercase;
+    color: var(--main-light-color);
+    margin-bottom: 20px;
+}
